@@ -971,7 +971,6 @@
 {"pattern": [{"lower": "minist\u00e9rio"}, {"lower": "da"}, {"lower": "mulher"}, {"lower": "da"}, {"lower": "fam\u00edlia"}, {"lower": "e"}, {"lower": "dos"}, {"lower": "direitos"}, {"lower": "humanos"}], "label": "PUBLIC"}
 {"pattern": [{"lower": "mp-sc"}], "label": "PUBLIC"}
 {"pattern": [{"lower": "minist\u00e9rio"}, {"lower": "da"}, {"lower": "agricultura,"}, {"lower": "pecu\u00e1ria"}, {"lower": "e"}, {"lower": "abastecimento"}], "label": "PUBLIC"}
-{"pattern": [{"lower": "mapa"}], "label": "PUBLIC"}
 {"pattern": [{"lower": "minist\u00e9rio"}, {"lower": "p\u00fablico"}, {"lower": "do"}, {"lower": "rio"}, {"lower": "de"}, {"lower": "janeiro"}], "label": "PUBLIC"}
 {"pattern": [{"lower": "minist\u00e9rio"}, {"lower": "da"}, {"lower": "economia"}], "label": "PUBLIC"}
 {"pattern": [{"lower": "minist\u00e9rio"}, {"lower": "p\u00fablico"}, {"lower": "militar"}], "label": "PUBLIC"}
@@ -981,7 +980,7 @@
 {"pattern": [{"lower": "instituto"}, {"lower": "butantan"}], "label": "PUBLIC"}
 {"pattern": [{"lower": "justi\u00e7a"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "distrito"}, {"lower": "federal"}], "label": "PUBLIC"}
 {"pattern": [{"lower": "martin"}, {"lower": "luther"}, {"lower": "king"}], "label": "PER"}
-{"pattern": [{"lower": "malcolm"}], "label": "PER"}
+{"pattern": [{"lower": "malcolm"}, {"lower": "x"}], "label": "PER"}
 {"pattern": [{"lower": "george"}, {"lower": "floyd"}], "label": "PER"}
 {"pattern": [{"lower": "djamila"}, {"lower": "ribeiro"}], "label": "PER"}
 {"pattern": [{"lower": "nelson"}, {"lower": "mandela"}], "label": "PER"}
