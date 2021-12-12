@@ -1,7 +1,0 @@
-naacp	MOVEMENT
-panteras negras	MOVEMENT
-black lives matter	MOVEMENT
-vidas negras importam	MOVEMENT
-black power	MOVEMENT
-Movimento Negro Unificado	MOVEMENT
-MNU	MOVEMENT

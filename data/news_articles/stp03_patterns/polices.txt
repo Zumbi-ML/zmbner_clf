@@ -1,0 +1,4 @@
+fbi	POLICE
+polícia civil	POLICE
+polícia militar	POLICE
+cia	POLICE

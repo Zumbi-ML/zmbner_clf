@@ -1,0 +1,25 @@
+facebook	MEDIA
+bbc	MEDIA
+reuters	MEDIA
+epa	MEDIA
+uol	MEDIA
+unsplash	MEDIA
+instagram	MEDIA
+g1	MEDIA
+r7	MEDIA
+folhapress	MEDIA
+afp	MEDIA
+globo-bairros	MEDIA
+cartacapital	MEDIA
+oglobo_bairros	MEDIA
+jornal de gramado	MEDIA
+bbc news brasil	MEDIA
+tv santa cruz	MEDIA
+the guardian	MEDIA
+bbc news	MEDIA
+getty images	MEDIA
+nsc tv	MEDIA
+nexo jornal	MEDIA
+revista dados	MEDIA
+tv globo	MEDIA
+bbc áfrica	MEDIA

@@ -1,0 +1,9 @@
+martin luther king	PER
+martin luther king jr	PER
+malcolm x	PER
+george floyd	PER
+Djamila ribeiro	PER
+Nelson Mandela	PER
+Marielle Franco	PER
+Rosa Parker	PER
+Benedita da Silva	PER

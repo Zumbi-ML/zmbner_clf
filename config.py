@@ -1,27 +1,29 @@
 # Common
 # ==============================================================================
 
-BASE_DIR = "news_articles/"
+BASE_DIR = "data/"
 
-RAW_FILE_OUTPUT_DIR = BASE_DIR + "stp01_raw/"
+ARTICLES_DIR = "news_articles/"
+
+RAW_FILE_OUTPUT_DIR = BASE_DIR + ARTICLES_DIR + "stp01_raw/"
 
 # Sentencizer
 # ==============================================================================
 
 SENTENCIZER_INPUT_DIR = RAW_FILE_OUTPUT_DIR
 
-SENTENCIZER_OUTPUT_DIR = BASE_DIR + "stp02_sentencized/"
+SENTENCIZER_OUTPUT_DIR = BASE_DIR + ARTICLES_DIR + "stp02_sentencized/"
 
 # JSONlifier
 # ==============================================================================
 
 JSONLIFIER_INPUT_DIR = SENTENCIZER_OUTPUT_DIR
 
-JSONLIFIER_OUTPUT_DIR = "train/"
+JSONLIFIER_OUTPUT_DIR = BASE_DIR + "stp04-inputs-4-annotation/"
 
 # Patternifier
 # ==============================================================================
 
-PATTERNIFIER_INPUT_DIR = BASE_DIR + "stp03_patterns/"
+PATTERNIFIER_INPUT_DIR = BASE_DIR + ARTICLES_DIR + "stp03_patterns/"
 
-PATTERNIFIER_OUTPUT_DIR = "train/"
+PATTERNIFIER_OUTPUT_DIR = BASE_DIR + "stp04-inputs-4-annotation/"
