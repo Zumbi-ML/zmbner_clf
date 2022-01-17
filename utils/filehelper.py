@@ -21,6 +21,13 @@ def write_list_into(filename, lst, end='\n\n'):
 		for text in lst:
 			file.write(text + end)
 
+def write(filename, content):
+    """
+    Write the content to the file
+    """
+    with open(filename, 'w') as f:
+        f.write(content)
+
 def concat_articles_content(dir):
     """
     Concatenate the articles' content into a single string
