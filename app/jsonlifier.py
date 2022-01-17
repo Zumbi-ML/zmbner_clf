@@ -13,10 +13,9 @@ def jsonlify(input_path):
         jsonlified_lst.append(json.dumps({"text": sentence}))
     return jsonlified_lst
 
-def jsonlify_n_save(input_path, output_path):
+def jsonlify_n_save(input_path, output_file):
     """
     Converts strings to the JSONL format and saves it to the disk
     """
     jsonlified_lst = jsonlify(input_path)
-    output_file = output_path + "sentences_4_training.jsonl"
     fh.write_list_into(output_file, jsonlified_lst, end='\n')

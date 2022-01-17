@@ -24,12 +24,11 @@ def sentencize(input_path):
             sentencized.append(sentence)
     return sentencized
 
-def sentencize_n_save(input_path, output_path):
+def sentencize_n_save(input_path, output_file):
     """
     Sentencize and save to disk
     """
     sentencized_lst = sentencize(input_path)
-    output_file = output_path + "sentencized_text.txt"
     fh.write_list_into(output_file, sentencized_lst)
 
 # Aid functions
