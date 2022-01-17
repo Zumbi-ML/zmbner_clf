@@ -1,7 +1,7 @@
-naacp	MOVEMENT
-panteras negras	MOVEMENT
-black lives matter	MOVEMENT
-vidas negras importam	MOVEMENT
-black power	MOVEMENT
-Movimento Negro Unificado	MOVEMENT
-MNU	MOVEMENT
+naacp	ORG
+panteras negras	ORG
+black lives matter	ORG
+vidas negras importam	ORG
+black power	ORG
+Movimento Negro Unificado	ORG
+MNU	ORG

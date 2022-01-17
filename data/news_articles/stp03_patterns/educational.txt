@@ -1,226 +1,226 @@
-Comissão Universidade para os Índios	EDUCATIONAL
-Consórcio Nacional de Núcleos de Estudos Afro-Brasileiros	EDUCATIONAL
-cuia	EDUCATIONAL
-ECA-USP	EDUCATIONAL
-Faculdade de Direito	EDUCATIONAL
-Faculdade de Filosofia, Letras e Ciências Humanas	EDUCATIONAL
-Faculdade Legale	EDUCATIONAL
-FDUL	EDUCATIONAL
-FFLCH	EDUCATIONAL
-FFLCH-USP	EDUCATIONAL
-FGV	EDUCATIONAL
-FGV-Rio	EDUCATIONAL
-Fiocruz	EDUCATIONAL
-Fundação Getúlio Vargas	EDUCATIONAL
-Fundação Oswaldo Cruz	EDUCATIONAL
-FURG	EDUCATIONAL
-Imperial College	EDUCATIONAL
-neab	EDUCATIONAL
-NEABI/UFAC	EDUCATIONAL
-Núcleo de Estudos Afro-brasileiros	EDUCATIONAL
-Núcleo de Estudos Afro-Brasileiros e Indígenas	EDUCATIONAL
-pontifícia universidade católica de são paulo	EDUCATIONAL
-PUC-Campinas	EDUCATIONAL
-puc-sp	EDUCATIONAL
-UCP	EDUCATIONAL
-UEL	EDUCATIONAL
-UEM	EDUCATIONAL
-UERJ	EDUCATIONAL
-UFABC	EDUCATIONAL
-Ufac	EDUCATIONAL
-UFAC	EDUCATIONAL
-UFAL	EDUCATIONAL
-UFAM	EDUCATIONAL
-UFAPE	EDUCATIONAL
-UFBA	EDUCATIONAL
-UFC	EDUCATIONAL
-UFCA	EDUCATIONAL
-UFCat	EDUCATIONAL
-UFCG	EDUCATIONAL
-UFCSPA	EDUCATIONAL
-UFDPar	EDUCATIONAL
-UFERSA	EDUCATIONAL
-UFES	EDUCATIONAL
-UFF	EDUCATIONAL
-UFFS	EDUCATIONAL
-UFG	EDUCATIONAL
-UFGD	EDUCATIONAL
-UFJ	EDUCATIONAL
-UFJF	EDUCATIONAL
-UFLA	EDUCATIONAL
-UFMA	EDUCATIONAL
-UFMG	EDUCATIONAL
-UFMS	EDUCATIONAL
-UFMT	EDUCATIONAL
-UFNT	EDUCATIONAL
-UFOB	EDUCATIONAL
-UFOP	EDUCATIONAL
-UFOPA	EDUCATIONAL
-UFPA	EDUCATIONAL
-UFPB	EDUCATIONAL
-UFPE	EDUCATIONAL
-UFPel	EDUCATIONAL
-UFPI	EDUCATIONAL
-UFPI	EDUCATIONAL
-UFPR	EDUCATIONAL
-UFR	EDUCATIONAL
-UFRA	EDUCATIONAL
-UFRB	EDUCATIONAL
-UFRGS	EDUCATIONAL
-UFRJ	EDUCATIONAL
-UFRN	EDUCATIONAL
-UFRPE	EDUCATIONAL
-UFRR	EDUCATIONAL
-UFRRJ	EDUCATIONAL
-UFS	EDUCATIONAL
-UFSB	EDUCATIONAL
-UFSC	EDUCATIONAL
-UFSCar	EDUCATIONAL
-UFSJ	EDUCATIONAL
-UFSM	EDUCATIONAL
-UFT	EDUCATIONAL
-UFTM	EDUCATIONAL
-UFU	EDUCATIONAL
-UFV	EDUCATIONAL
-UFVJM	EDUCATIONAL
-unb	EDUCATIONAL
-UnB	EDUCATIONAL
-Unicap	EDUCATIONAL
-UNIFAL-MG	EDUCATIONAL
-UNIFAP	EDUCATIONAL
-UNIFEI	EDUCATIONAL
-unifesp	EDUCATIONAL
-UNIFESSPA	EDUCATIONAL
-UNILA	EDUCATIONAL
-UNILAB	EDUCATIONAL
-UNILAB/CE	EDUCATIONAL
-unip	EDUCATIONAL
-UNIPAMPA	EDUCATIONAL
-UNIR	EDUCATIONAL
-UNIRIO	EDUCATIONAL
-unisantos	EDUCATIONAL
-UNIVASF	EDUCATIONAL
-Universidad Trés de Febrero	EDUCATIONAL
-Universidade Americana de Washington	EDUCATIONAL
-Universidade Cândido Mendes	EDUCATIONAL
-Universidade Católica de Pernambuco	EDUCATIONAL
-Universidade Católica de Santos	EDUCATIONAL
-Universidade Católica Portuguesa	EDUCATIONAL
-Universidade Coimbra	EDUCATIONAL
-Universidade Cornell	EDUCATIONAL
-Universidade da Califórnia	EDUCATIONAL
-Universidade da Colúmbia Britânica	EDUCATIONAL
-Universidade da Integração Internacional da Lusofonia Afro-brasileira	EDUCATIONAL
-Universidade da Região de Joinville	EDUCATIONAL
-Universidade de Bath	EDUCATIONAL
-Universidade de Bayreuth	EDUCATIONAL
-Universidade de Boston	EDUCATIONAL
-Universidade de Brasília	EDUCATIONAL
-Universidade de Buenos Aires	EDUCATIONAL
-Universidade de Cambridge	EDUCATIONAL
-Universidade de Columbia	EDUCATIONAL
-Universidade de Drake	EDUCATIONAL
-Universidade de Glasgow	EDUCATIONAL
-Universidade de Indiana	EDUCATIONAL
-Universidade de Lausanne	EDUCATIONAL
-Universidade de Lisboa	EDUCATIONAL
-Universidade de Michigan	EDUCATIONAL
-Universidade de Minnesota	EDUCATIONAL
-Universidade de Oxford	EDUCATIONAL
-Universidade de Paris	EDUCATIONAL
-Universidade de Passo Fundo	EDUCATIONAL
-universidade de Patos de Minas	EDUCATIONAL
-Universidade de Pernambuco	EDUCATIONAL
-Universidade de Salvador	EDUCATIONAL
-Universidade de Stanford	EDUCATIONAL
-Universidade do Chile	EDUCATIONAL
-Universidade do Oeste de Sydney	EDUCATIONAL
-Universidade do Porto	EDUCATIONAL
-Universidade Duke	EDUCATIONAL
-Universidade Estácio de Sá	EDUCATIONAL
-Universidade Estadual de Londrina	EDUCATIONAL
-Universidade Estadual de Maringá	EDUCATIONAL
-Universidade Estadual do Rio de Janeiro	EDUCATIONAL
-Universidade Europeia do Atlântico	EDUCATIONAL
-Universidade Federal da Bahia	EDUCATIONAL
-Universidade Federal da Fronteira Sul	EDUCATIONAL
-Universidade Federal da Grande Dourados	EDUCATIONAL
-Universidade Federal da Integração Latino-Americana	EDUCATIONAL
-Universidade Federal da Lusofonia Afro-Brasileira	EDUCATIONAL
-Universidade Federal da Paraíba	EDUCATIONAL
-Universidade Federal de Alagoas	EDUCATIONAL
-Universidade Federal de Alfenas	EDUCATIONAL
-Universidade Federal de Campina Grande	EDUCATIONAL
-Universidade Federal de Catalão	EDUCATIONAL
-Universidade Federal de Ciências da Saúde de Porto Alegre	EDUCATIONAL
-Universidade Federal de Goiás	EDUCATIONAL
-Universidade Federal de Itajubá	EDUCATIONAL
-Universidade Federal de Jataí	EDUCATIONAL
-Universidade Federal de Juiz de Fora	EDUCATIONAL
-Universidade Federal de Lavras	EDUCATIONAL
-Universidade Federal de Mato Grosso	EDUCATIONAL
-Universidade Federal de Mato Grosso do Sul	EDUCATIONAL
-Universidade Federal de Minas Gerais	EDUCATIONAL
-Universidade Federal de Ouro Preto	EDUCATIONAL
-Universidade Federal de Pelotas	EDUCATIONAL
-Universidade Federal de Pernambuco	EDUCATIONAL
-Universidade Federal de Rondônia	EDUCATIONAL
-Universidade Federal de Rondonópolis	EDUCATIONAL
-Universidade Federal de Roraima	EDUCATIONAL
-Universidade Federal de Santa Catarina	EDUCATIONAL
-Universidade Federal de Santa Maria	EDUCATIONAL
-Universidade Federal de São Carlos	EDUCATIONAL
-Universidade Federal de São João del-Rei	EDUCATIONAL
-Universidade Federal de São Paulo	EDUCATIONAL
-Universidade Federal de Sergipe	EDUCATIONAL
-Universidade Federal de Uberlândia	EDUCATIONAL
-Universidade Federal de Viçosa	EDUCATIONAL
-Universidade Federal do ABC	EDUCATIONAL
-Universidade Federal do Acre	EDUCATIONAL
-Universidade Federal do Agreste de Pernambuco	EDUCATIONAL
-Universidade Federal do Amapá	EDUCATIONAL
-Universidade Federal do Amazonas	EDUCATIONAL
-Universidade Federal do Cariri	EDUCATIONAL
-Universidade Federal do Ceará	EDUCATIONAL
-Universidade Federal do Delta do Parnaíba	EDUCATIONAL
-Universidade Federal do Espírito Santo	EDUCATIONAL
-Universidade Federal do Estado do Rio de Janeiro	EDUCATIONAL
-Universidade Federal do Maranhão	EDUCATIONAL
-Universidade Federal do Norte do Tocantins	EDUCATIONAL
-Universidade Federal do Oeste da Bahia	EDUCATIONAL
-Universidade Federal do Oeste do Pará	EDUCATIONAL
-Universidade Federal do Pampa	EDUCATIONAL
-Universidade Federal do Pará	EDUCATIONAL
-Universidade Federal do Paraná	EDUCATIONAL
-Universidade Federal do Piauí	EDUCATIONAL
-Universidade Federal do Recôncavo Baiano	EDUCATIONAL
-Universidade Federal do Recôncavo da Bahia	EDUCATIONAL
-Universidade Federal do Rio de Janeiro	EDUCATIONAL
-Universidade Federal do Rio Grande	EDUCATIONAL
-Universidade Federal do Rio Grande do Norte	EDUCATIONAL
-Universidade Federal do Rio Grande do Sul	EDUCATIONAL
-Universidade Federal do Sul da Bahia	EDUCATIONAL
-Universidade Federal do Sul e Sudeste do Pará	EDUCATIONAL
-Universidade Federal do Tocantins	EDUCATIONAL
-Universidade Federal do Triângulo Mineiro	EDUCATIONAL
-Universidade Federal do Vale do São Francisco	EDUCATIONAL
-Universidade Federal dos Vales do Jequitinhonha e Mucuri	EDUCATIONAL
-Universidade Federal Fluminense	EDUCATIONAL
-Universidade Federal Rural da Amazônia	EDUCATIONAL
-Universidade Federal Rural de Pernambuco	EDUCATIONAL
-Universidade Federal Rural do Rio de Janeiro	EDUCATIONAL
-Universidade Federal Rural do Rio de Janeiro	EDUCATIONAL
-Universidade Federal Rural do Semi-Árido	EDUCATIONAL
-Universidade Harvard	EDUCATIONAL
-Universidade Massey	EDUCATIONAL
-Universidade Nova Lisboa	EDUCATIONAL
-Universidade Paulista	EDUCATIONAL
-Universidade Politécnica de Pernambuco	EDUCATIONAL
-Universidade Presbiteriana Mackenzie	EDUCATIONAL
-Universidade São Judas	EDUCATIONAL
-Universidade Tecnológica Federal do Paraná	EDUCATIONAL
-Universidade Zumbi dos Palmares	EDUCATIONAL
-Univille	EDUCATIONAL
-UPE	EDUCATIONAL
-UPF	EDUCATIONAL
-UTFPR	EDUCATIONAL
+Comissão Universidade para os Índios	ORG
+Consórcio Nacional de Núcleos de Estudos Afro-Brasileiros	ORG
+cuia	ORG
+ECA-USP	ORG
+Faculdade de Direito	ORG
+Faculdade de Filosofia, Letras e Ciências Humanas	ORG
+Faculdade Legale	ORG
+FDUL	ORG
+FFLCH	ORG
+FFLCH-USP	ORG
+FGV	ORG
+FGV-Rio	ORG
+Fiocruz	ORG
+Fundação Getúlio Vargas	ORG
+Fundação Oswaldo Cruz	ORG
+FURG	ORG
+Imperial College	ORG
+neab	ORG
+NEABI/UFAC	ORG
+Núcleo de Estudos Afro-brasileiros	ORG
+Núcleo de Estudos Afro-Brasileiros e Indígenas	ORG
+pontifícia universidade católica de são paulo	ORG
+PUC-Campinas	ORG
+puc-sp	ORG
+UCP	ORG
+UEL	ORG
+UEM	ORG
+UERJ	ORG
+UFABC	ORG
+Ufac	ORG
+UFAC	ORG
+UFAL	ORG
+UFAM	ORG
+UFAPE	ORG
+UFBA	ORG
+UFC	ORG
+UFCA	ORG
+UFCat	ORG
+UFCG	ORG
+UFCSPA	ORG
+UFDPar	ORG
+UFERSA	ORG
+UFES	ORG
+UFF	ORG
+UFFS	ORG
+UFG	ORG
+UFGD	ORG
+UFJ	ORG
+UFJF	ORG
+UFLA	ORG
+UFMA	ORG
+UFMG	ORG
+UFMS	ORG
+UFMT	ORG
+UFNT	ORG
+UFOB	ORG
+UFOP	ORG
+UFOPA	ORG
+UFPA	ORG
+UFPB	ORG
+UFPE	ORG
+UFPel	ORG
+UFPI	ORG
+UFPI	ORG
+UFPR	ORG
+UFR	ORG
+UFRA	ORG
+UFRB	ORG
+UFRGS	ORG
+UFRJ	ORG
+UFRN	ORG
+UFRPE	ORG
+UFRR	ORG
+UFRRJ	ORG
+UFS	ORG
+UFSB	ORG
+UFSC	ORG
+UFSCar	ORG
+UFSJ	ORG
+UFSM	ORG
+UFT	ORG
+UFTM	ORG
+UFU	ORG
+UFV	ORG
+UFVJM	ORG
+unb	ORG
+UnB	ORG
+Unicap	ORG
+UNIFAL-MG	ORG
+UNIFAP	ORG
+UNIFEI	ORG
+unifesp	ORG
+UNIFESSPA	ORG
+UNILA	ORG
+UNILAB	ORG
+UNILAB/CE	ORG
+unip	ORG
+UNIPAMPA	ORG
+UNIR	ORG
+UNIRIO	ORG
+unisantos	ORG
+UNIVASF	ORG
+Universidad Trés de Febrero	ORG
+Universidade Americana de Washington	ORG
+Universidade Cândido Mendes	ORG
+Universidade Católica de Pernambuco	ORG
+Universidade Católica de Santos	ORG
+Universidade Católica Portuguesa	ORG
+Universidade Coimbra	ORG
+Universidade Cornell	ORG
+Universidade da Califórnia	ORG
+Universidade da Colúmbia Britânica	ORG
+Universidade da Integração Internacional da Lusofonia Afro-brasileira	ORG
+Universidade da Região de Joinville	ORG
+Universidade de Bath	ORG
+Universidade de Bayreuth	ORG
+Universidade de Boston	ORG
+Universidade de Brasília	ORG
+Universidade de Buenos Aires	ORG
+Universidade de Cambridge	ORG
+Universidade de Columbia	ORG
+Universidade de Drake	ORG
+Universidade de Glasgow	ORG
+Universidade de Indiana	ORG
+Universidade de Lausanne	ORG
+Universidade de Lisboa	ORG
+Universidade de Michigan	ORG
+Universidade de Minnesota	ORG
+Universidade de Oxford	ORG
+Universidade de Paris	ORG
+Universidade de Passo Fundo	ORG
+universidade de Patos de Minas	ORG
+Universidade de Pernambuco	ORG
+Universidade de Salvador	ORG
+Universidade de Stanford	ORG
+Universidade do Chile	ORG
+Universidade do Oeste de Sydney	ORG
+Universidade do Porto	ORG
+Universidade Duke	ORG
+Universidade Estácio de Sá	ORG
+Universidade Estadual de Londrina	ORG
+Universidade Estadual de Maringá	ORG
+Universidade Estadual do Rio de Janeiro	ORG
+Universidade Europeia do Atlântico	ORG
+Universidade Federal da Bahia	ORG
+Universidade Federal da Fronteira Sul	ORG
+Universidade Federal da Grande Dourados	ORG
+Universidade Federal da Integração Latino-Americana	ORG
+Universidade Federal da Lusofonia Afro-Brasileira	ORG
+Universidade Federal da Paraíba	ORG
+Universidade Federal de Alagoas	ORG
+Universidade Federal de Alfenas	ORG
+Universidade Federal de Campina Grande	ORG
+Universidade Federal de Catalão	ORG
+Universidade Federal de Ciências da Saúde de Porto Alegre	ORG
+Universidade Federal de Goiás	ORG
+Universidade Federal de Itajubá	ORG
+Universidade Federal de Jataí	ORG
+Universidade Federal de Juiz de Fora	ORG
+Universidade Federal de Lavras	ORG
+Universidade Federal de Mato Grosso	ORG
+Universidade Federal de Mato Grosso do Sul	ORG
+Universidade Federal de Minas Gerais	ORG
+Universidade Federal de Ouro Preto	ORG
+Universidade Federal de Pelotas	ORG
+Universidade Federal de Pernambuco	ORG
+Universidade Federal de Rondônia	ORG
+Universidade Federal de Rondonópolis	ORG
+Universidade Federal de Roraima	ORG
+Universidade Federal de Santa Catarina	ORG
+Universidade Federal de Santa Maria	ORG
+Universidade Federal de São Carlos	ORG
+Universidade Federal de São João del-Rei	ORG
+Universidade Federal de São Paulo	ORG
+Universidade Federal de Sergipe	ORG
+Universidade Federal de Uberlândia	ORG
+Universidade Federal de Viçosa	ORG
+Universidade Federal do ABC	ORG
+Universidade Federal do Acre	ORG
+Universidade Federal do Agreste de Pernambuco	ORG
+Universidade Federal do Amapá	ORG
+Universidade Federal do Amazonas	ORG
+Universidade Federal do Cariri	ORG
+Universidade Federal do Ceará	ORG
+Universidade Federal do Delta do Parnaíba	ORG
+Universidade Federal do Espírito Santo	ORG
+Universidade Federal do Estado do Rio de Janeiro	ORG
+Universidade Federal do Maranhão	ORG
+Universidade Federal do Norte do Tocantins	ORG
+Universidade Federal do Oeste da Bahia	ORG
+Universidade Federal do Oeste do Pará	ORG
+Universidade Federal do Pampa	ORG
+Universidade Federal do Pará	ORG
+Universidade Federal do Paraná	ORG
+Universidade Federal do Piauí	ORG
+Universidade Federal do Recôncavo Baiano	ORG
+Universidade Federal do Recôncavo da Bahia	ORG
+Universidade Federal do Rio de Janeiro	ORG
+Universidade Federal do Rio Grande	ORG
+Universidade Federal do Rio Grande do Norte	ORG
+Universidade Federal do Rio Grande do Sul	ORG
+Universidade Federal do Sul da Bahia	ORG
+Universidade Federal do Sul e Sudeste do Pará	ORG
+Universidade Federal do Tocantins	ORG
+Universidade Federal do Triângulo Mineiro	ORG
+Universidade Federal do Vale do São Francisco	ORG
+Universidade Federal dos Vales do Jequitinhonha e Mucuri	ORG
+Universidade Federal Fluminense	ORG
+Universidade Federal Rural da Amazônia	ORG
+Universidade Federal Rural de Pernambuco	ORG
+Universidade Federal Rural do Rio de Janeiro	ORG
+Universidade Federal Rural do Rio de Janeiro	ORG
+Universidade Federal Rural do Semi-Árido	ORG
+Universidade Harvard	ORG
+Universidade Massey	ORG
+Universidade Nova Lisboa	ORG
+Universidade Paulista	ORG
+Universidade Politécnica de Pernambuco	ORG
+Universidade Presbiteriana Mackenzie	ORG
+Universidade São Judas	ORG
+Universidade Tecnológica Federal do Paraná	ORG
+Universidade Zumbi dos Palmares	ORG
+Univille	ORG
+UPE	ORG
+UPF	ORG
+UTFPR	ORG

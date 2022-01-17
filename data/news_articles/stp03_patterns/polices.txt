@@ -1,4 +1,4 @@
-fbi	POLICE
-polícia civil	POLICE
-polícia militar	POLICE
-cia	POLICE
+fbi	ORG
+polícia civil	ORG
+polícia militar	ORG
+cia	ORG

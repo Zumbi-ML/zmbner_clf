@@ -1,27 +1,27 @@
-ibge	PUBLIC
-Instituto Brasileiro de Geografia e Estatística	PUBLIC
-mpf	PUBLIC
-ministério público federal	PUBLIC
-stf	PUBLIC
-supremo tribunal federal	PUBLIC
-Supremo	PUBLIC
-Procuradoria-Geral da República	PUBLIC
-pgr	PUBLIC
-Instituto de Pesquisa Econômica Aplicada	PUBLIC
-Ministério da Saúde	PUBLIC
-Ministério Público de São Paulo	PUBLIC
-Ministério Público	PUBLIC
-Ministério da Justiça	PUBLIC
-Ministério Público Estadual	PUBLIC
-Ministério das Relações Exteriores	PUBLIC
-Ministério da Mulher da Família e dos Direitos Humanos	PUBLIC
-MP-SC	PUBLIC
-Ministério da Agricultura, Pecuária e Abastecimento	PUBLIC
-Ministério Público do Rio de Janeiro	PUBLIC
-Ministério da Economia	PUBLIC
-Ministério Público Militar	PUBLIC
-Ministério Público do Rio Grande do Sul	PUBLIC
-Ministério Público do Trabalho	PUBLIC
-ministério da Educação	PUBLIC
-Instituto Butantan	PUBLIC
-Justiça Federal do Distrito Federal	PUBLIC
+ibge	ORG
+Instituto Brasileiro de Geografia e Estatística	ORG
+mpf	ORG
+ministério público federal	ORG
+stf	ORG
+supremo tribunal federal	ORG
+Supremo	ORG
+Procuradoria-Geral da República	ORG
+pgr	ORG
+Instituto de Pesquisa Econômica Aplicada	ORG
+Ministério da Saúde	ORG
+Ministério Público de São Paulo	ORG
+Ministério Público	ORG
+Ministério da Justiça	ORG
+Ministério Público Estadual	ORG
+Ministério das Relações Exteriores	ORG
+Ministério da Mulher da Família e dos Direitos Humanos	ORG
+MP-SC	ORG
+Ministério da Agricultura, Pecuária e Abastecimento	ORG
+Ministério Público do Rio de Janeiro	ORG
+Ministério da Economia	ORG
+Ministério Público Militar	ORG
+Ministério Público do Rio Grande do Sul	ORG
+Ministério Público do Trabalho	ORG
+ministério da Educação	ORG
+Instituto Butantan	ORG
+Justiça Federal do Distrito Federal	ORG

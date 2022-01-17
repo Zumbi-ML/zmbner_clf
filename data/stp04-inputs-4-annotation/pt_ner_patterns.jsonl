@@ -196,236 +196,236 @@
 {"pattern": [{"lower": "z\u00e2mbia"}], "label": "COUNTRY"}
 {"pattern": [{"lower": "zimb\u00e1bue"}], "label": "COUNTRY"}
 {"pattern": [{"lower": "eua"}], "label": "COUNTRY"}
-{"pattern": [{"lower": "comiss\u00e3o"}, {"lower": "universidade"}, {"lower": "para"}, {"lower": "os"}, {"lower": "\u00edndios"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "cons\u00f3rcio"}, {"lower": "nacional"}, {"lower": "de"}, {"lower": "n\u00facleos"}, {"lower": "de"}, {"lower": "estudos"}, {"lower": "afro-brasileiros"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "cuia"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "eca-usp"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "faculdade"}, {"lower": "de"}, {"lower": "direito"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "faculdade"}, {"lower": "de"}, {"lower": "filosofia,"}, {"lower": "letras"}, {"lower": "e"}, {"lower": "ci\u00eancias"}, {"lower": "humanas"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "faculdade"}, {"lower": "legale"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "fdul"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "fflch"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "fflch-usp"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "fgv"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "fgv-rio"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "fiocruz"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "funda\u00e7\u00e3o"}, {"lower": "get\u00falio"}, {"lower": "vargas"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "funda\u00e7\u00e3o"}, {"lower": "oswaldo"}, {"lower": "cruz"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "furg"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "imperial"}, {"lower": "college"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "neab"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "neabi/ufac"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "n\u00facleo"}, {"lower": "de"}, {"lower": "estudos"}, {"lower": "afro-brasileiros"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "n\u00facleo"}, {"lower": "de"}, {"lower": "estudos"}, {"lower": "afro-brasileiros"}, {"lower": "e"}, {"lower": "ind\u00edgenas"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "pontif\u00edcia"}, {"lower": "universidade"}, {"lower": "cat\u00f3lica"}, {"lower": "de"}, {"lower": "s\u00e3o"}, {"lower": "paulo"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "puc-campinas"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "puc-sp"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ucp"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "uel"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "uem"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "uerj"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufabc"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufac"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufac"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufal"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufam"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufape"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufba"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufc"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufca"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufcat"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufcg"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufcspa"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufdpar"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufersa"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufes"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "uff"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "uffs"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufg"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufgd"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufj"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufjf"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufla"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufma"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufmg"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufms"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufmt"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufnt"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufob"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufop"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufopa"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufpa"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufpb"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufpe"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufpel"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufpi"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufpi"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufpr"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufr"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufra"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufrb"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufrgs"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufrj"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufrn"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufrpe"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufrr"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufrrj"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufs"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufsb"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufsc"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufscar"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufsj"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufsm"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "uft"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "uftm"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufu"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufv"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "ufvjm"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "unb"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "unb"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "unicap"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "unifal-mg"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "unifap"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "unifei"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "unifesp"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "unifesspa"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "unila"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "unilab"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "unilab/ce"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "unip"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "unipampa"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "unir"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "unirio"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "unisantos"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "univasf"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidad"}, {"lower": "tr\u00e9s"}, {"lower": "de"}, {"lower": "febrero"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "americana"}, {"lower": "de"}, {"lower": "washington"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "c\u00e2ndido"}, {"lower": "mendes"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "cat\u00f3lica"}, {"lower": "de"}, {"lower": "pernambuco"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "cato\u0301lica"}, {"lower": "de"}, {"lower": "santos"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "cat\u00f3lica"}, {"lower": "portuguesa"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "coimbra"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "cornell"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "da"}, {"lower": "calif\u00f3rnia"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "da"}, {"lower": "col\u00fambia"}, {"lower": "brit\u00e2nica"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "da"}, {"lower": "integra\u00e7\u00e3o"}, {"lower": "internacional"}, {"lower": "da"}, {"lower": "lusofonia"}, {"lower": "afro-brasileira"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "da"}, {"lower": "regi\u00e3o"}, {"lower": "de"}, {"lower": "joinville"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "bath"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "bayreuth"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "boston"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "bras\u00edlia"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "buenos"}, {"lower": "aires"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "cambridge"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "columbia"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "drake"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "glasgow"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "indiana"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "lausanne"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "lisboa"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "michigan"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "minnesota"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "oxford"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "paris"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "passo"}, {"lower": "fundo"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "patos"}, {"lower": "de"}, {"lower": "minas"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "pernambuco"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "salvador"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "stanford"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "do"}, {"lower": "chile"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "do"}, {"lower": "oeste"}, {"lower": "de"}, {"lower": "sydney"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "do"}, {"lower": "porto"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "duke"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "est\u00e1cio"}, {"lower": "de"}, {"lower": "s\u00e1"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "estadual"}, {"lower": "de"}, {"lower": "londrina"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "estadual"}, {"lower": "de"}, {"lower": "maring\u00e1"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "estadual"}, {"lower": "do"}, {"lower": "rio"}, {"lower": "de"}, {"lower": "janeiro"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "europeia"}, {"lower": "do"}, {"lower": "atl\u00e2ntico"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "da"}, {"lower": "bahia"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "da"}, {"lower": "fronteira"}, {"lower": "sul"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "da"}, {"lower": "grande"}, {"lower": "dourados"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "da"}, {"lower": "integra\u00e7\u00e3o"}, {"lower": "latino-americana"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "da"}, {"lower": "lusofonia"}, {"lower": "afro-brasileira"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "da"}, {"lower": "para\u00edba"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "alagoas"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "alfenas"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "campina"}, {"lower": "grande"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "catal\u00e3o"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "ci\u00eancias"}, {"lower": "da"}, {"lower": "sa\u00fade"}, {"lower": "de"}, {"lower": "porto"}, {"lower": "alegre"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "goi\u00e1s"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "itajub\u00e1"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "jata\u00ed"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "juiz"}, {"lower": "de"}, {"lower": "fora"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "lavras"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "mato"}, {"lower": "grosso"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "mato"}, {"lower": "grosso"}, {"lower": "do"}, {"lower": "sul"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "minas"}, {"lower": "gerais"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "ouro"}, {"lower": "preto"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "pelotas"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "pernambuco"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "rond\u00f4nia"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "rondon\u00f3polis"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "roraima"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "santa"}, {"lower": "catarina"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "santa"}, {"lower": "maria"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "s\u00e3o"}, {"lower": "carlos"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "s\u00e3o"}, {"lower": "jo\u00e3o"}, {"lower": "del-rei"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "s\u00e3o"}, {"lower": "paulo"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "sergipe"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "uberl\u00e2ndia"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "vi\u00e7osa"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "abc"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "acre"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "agreste"}, {"lower": "de"}, {"lower": "pernambuco"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "amap\u00e1"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "amazonas"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "cariri"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "cear\u00e1"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "delta"}, {"lower": "do"}, {"lower": "parna\u00edba"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "esp\u00edrito"}, {"lower": "santo"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "estado"}, {"lower": "do"}, {"lower": "rio"}, {"lower": "de"}, {"lower": "janeiro"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "maranh\u00e3o"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "norte"}, {"lower": "do"}, {"lower": "tocantins"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "oeste"}, {"lower": "da"}, {"lower": "bahia"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "oeste"}, {"lower": "do"}, {"lower": "par\u00e1"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "pampa"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "par\u00e1"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "paran\u00e1"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "piau\u00ed"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "rec\u00f4ncavo"}, {"lower": "baiano"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "rec\u00f4ncavo"}, {"lower": "da"}, {"lower": "bahia"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "rio"}, {"lower": "de"}, {"lower": "janeiro"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "rio"}, {"lower": "grande"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "rio"}, {"lower": "grande"}, {"lower": "do"}, {"lower": "norte"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "rio"}, {"lower": "grande"}, {"lower": "do"}, {"lower": "sul"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "sul"}, {"lower": "da"}, {"lower": "bahia"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "sul"}, {"lower": "e"}, {"lower": "sudeste"}, {"lower": "do"}, {"lower": "par\u00e1"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "tocantins"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "tri\u00e2ngulo"}, {"lower": "mineiro"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "vale"}, {"lower": "do"}, {"lower": "s\u00e3o"}, {"lower": "francisco"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "dos"}, {"lower": "vales"}, {"lower": "do"}, {"lower": "jequitinhonha"}, {"lower": "e"}, {"lower": "mucuri"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "fluminense"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "rural"}, {"lower": "da"}, {"lower": "amaz\u00f4nia"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "rural"}, {"lower": "de"}, {"lower": "pernambuco"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "rural"}, {"lower": "do"}, {"lower": "rio"}, {"lower": "de"}, {"lower": "janeiro"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "rural"}, {"lower": "do"}, {"lower": "rio"}, {"lower": "de"}, {"lower": "janeiro"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "rural"}, {"lower": "do"}, {"lower": "semi-\u00e1rido"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "harvard"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "massey"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "nova"}, {"lower": "lisboa"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "paulista"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "polit\u00e9cnica"}, {"lower": "de"}, {"lower": "pernambuco"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "presbiteriana"}, {"lower": "mackenzie"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "s\u00e3o"}, {"lower": "judas"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "tecnol\u00f3gica"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "paran\u00e1"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "universidade"}, {"lower": "zumbi"}, {"lower": "dos"}, {"lower": "palmares"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "univille"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "upe"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "upf"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "utfpr"}], "label": "EDUCATIONAL"}
-{"pattern": [{"lower": "fbi"}], "label": "POLICE"}
-{"pattern": [{"lower": "pol\u00edcia"}, {"lower": "civil"}], "label": "POLICE"}
-{"pattern": [{"lower": "pol\u00edcia"}, {"lower": "militar"}], "label": "POLICE"}
-{"pattern": [{"lower": "cia"}], "label": "POLICE"}
+{"pattern": [{"lower": "comiss\u00e3o"}, {"lower": "universidade"}, {"lower": "para"}, {"lower": "os"}, {"lower": "\u00edndios"}], "label": "ORG"}
+{"pattern": [{"lower": "cons\u00f3rcio"}, {"lower": "nacional"}, {"lower": "de"}, {"lower": "n\u00facleos"}, {"lower": "de"}, {"lower": "estudos"}, {"lower": "afro-brasileiros"}], "label": "ORG"}
+{"pattern": [{"lower": "cuia"}], "label": "ORG"}
+{"pattern": [{"lower": "eca-usp"}], "label": "ORG"}
+{"pattern": [{"lower": "faculdade"}, {"lower": "de"}, {"lower": "direito"}], "label": "ORG"}
+{"pattern": [{"lower": "faculdade"}, {"lower": "de"}, {"lower": "filosofia,"}, {"lower": "letras"}, {"lower": "e"}, {"lower": "ci\u00eancias"}, {"lower": "humanas"}], "label": "ORG"}
+{"pattern": [{"lower": "faculdade"}, {"lower": "legale"}], "label": "ORG"}
+{"pattern": [{"lower": "fdul"}], "label": "ORG"}
+{"pattern": [{"lower": "fflch"}], "label": "ORG"}
+{"pattern": [{"lower": "fflch-usp"}], "label": "ORG"}
+{"pattern": [{"lower": "fgv"}], "label": "ORG"}
+{"pattern": [{"lower": "fgv-rio"}], "label": "ORG"}
+{"pattern": [{"lower": "fiocruz"}], "label": "ORG"}
+{"pattern": [{"lower": "funda\u00e7\u00e3o"}, {"lower": "get\u00falio"}, {"lower": "vargas"}], "label": "ORG"}
+{"pattern": [{"lower": "funda\u00e7\u00e3o"}, {"lower": "oswaldo"}, {"lower": "cruz"}], "label": "ORG"}
+{"pattern": [{"lower": "furg"}], "label": "ORG"}
+{"pattern": [{"lower": "imperial"}, {"lower": "college"}], "label": "ORG"}
+{"pattern": [{"lower": "neab"}], "label": "ORG"}
+{"pattern": [{"lower": "neabi/ufac"}], "label": "ORG"}
+{"pattern": [{"lower": "n\u00facleo"}, {"lower": "de"}, {"lower": "estudos"}, {"lower": "afro-brasileiros"}], "label": "ORG"}
+{"pattern": [{"lower": "n\u00facleo"}, {"lower": "de"}, {"lower": "estudos"}, {"lower": "afro-brasileiros"}, {"lower": "e"}, {"lower": "ind\u00edgenas"}], "label": "ORG"}
+{"pattern": [{"lower": "pontif\u00edcia"}, {"lower": "universidade"}, {"lower": "cat\u00f3lica"}, {"lower": "de"}, {"lower": "s\u00e3o"}, {"lower": "paulo"}], "label": "ORG"}
+{"pattern": [{"lower": "puc-campinas"}], "label": "ORG"}
+{"pattern": [{"lower": "puc-sp"}], "label": "ORG"}
+{"pattern": [{"lower": "ucp"}], "label": "ORG"}
+{"pattern": [{"lower": "uel"}], "label": "ORG"}
+{"pattern": [{"lower": "uem"}], "label": "ORG"}
+{"pattern": [{"lower": "uerj"}], "label": "ORG"}
+{"pattern": [{"lower": "ufabc"}], "label": "ORG"}
+{"pattern": [{"lower": "ufac"}], "label": "ORG"}
+{"pattern": [{"lower": "ufac"}], "label": "ORG"}
+{"pattern": [{"lower": "ufal"}], "label": "ORG"}
+{"pattern": [{"lower": "ufam"}], "label": "ORG"}
+{"pattern": [{"lower": "ufape"}], "label": "ORG"}
+{"pattern": [{"lower": "ufba"}], "label": "ORG"}
+{"pattern": [{"lower": "ufc"}], "label": "ORG"}
+{"pattern": [{"lower": "ufca"}], "label": "ORG"}
+{"pattern": [{"lower": "ufcat"}], "label": "ORG"}
+{"pattern": [{"lower": "ufcg"}], "label": "ORG"}
+{"pattern": [{"lower": "ufcspa"}], "label": "ORG"}
+{"pattern": [{"lower": "ufdpar"}], "label": "ORG"}
+{"pattern": [{"lower": "ufersa"}], "label": "ORG"}
+{"pattern": [{"lower": "ufes"}], "label": "ORG"}
+{"pattern": [{"lower": "uff"}], "label": "ORG"}
+{"pattern": [{"lower": "uffs"}], "label": "ORG"}
+{"pattern": [{"lower": "ufg"}], "label": "ORG"}
+{"pattern": [{"lower": "ufgd"}], "label": "ORG"}
+{"pattern": [{"lower": "ufj"}], "label": "ORG"}
+{"pattern": [{"lower": "ufjf"}], "label": "ORG"}
+{"pattern": [{"lower": "ufla"}], "label": "ORG"}
+{"pattern": [{"lower": "ufma"}], "label": "ORG"}
+{"pattern": [{"lower": "ufmg"}], "label": "ORG"}
+{"pattern": [{"lower": "ufms"}], "label": "ORG"}
+{"pattern": [{"lower": "ufmt"}], "label": "ORG"}
+{"pattern": [{"lower": "ufnt"}], "label": "ORG"}
+{"pattern": [{"lower": "ufob"}], "label": "ORG"}
+{"pattern": [{"lower": "ufop"}], "label": "ORG"}
+{"pattern": [{"lower": "ufopa"}], "label": "ORG"}
+{"pattern": [{"lower": "ufpa"}], "label": "ORG"}
+{"pattern": [{"lower": "ufpb"}], "label": "ORG"}
+{"pattern": [{"lower": "ufpe"}], "label": "ORG"}
+{"pattern": [{"lower": "ufpel"}], "label": "ORG"}
+{"pattern": [{"lower": "ufpi"}], "label": "ORG"}
+{"pattern": [{"lower": "ufpi"}], "label": "ORG"}
+{"pattern": [{"lower": "ufpr"}], "label": "ORG"}
+{"pattern": [{"lower": "ufr"}], "label": "ORG"}
+{"pattern": [{"lower": "ufra"}], "label": "ORG"}
+{"pattern": [{"lower": "ufrb"}], "label": "ORG"}
+{"pattern": [{"lower": "ufrgs"}], "label": "ORG"}
+{"pattern": [{"lower": "ufrj"}], "label": "ORG"}
+{"pattern": [{"lower": "ufrn"}], "label": "ORG"}
+{"pattern": [{"lower": "ufrpe"}], "label": "ORG"}
+{"pattern": [{"lower": "ufrr"}], "label": "ORG"}
+{"pattern": [{"lower": "ufrrj"}], "label": "ORG"}
+{"pattern": [{"lower": "ufs"}], "label": "ORG"}
+{"pattern": [{"lower": "ufsb"}], "label": "ORG"}
+{"pattern": [{"lower": "ufsc"}], "label": "ORG"}
+{"pattern": [{"lower": "ufscar"}], "label": "ORG"}
+{"pattern": [{"lower": "ufsj"}], "label": "ORG"}
+{"pattern": [{"lower": "ufsm"}], "label": "ORG"}
+{"pattern": [{"lower": "uft"}], "label": "ORG"}
+{"pattern": [{"lower": "uftm"}], "label": "ORG"}
+{"pattern": [{"lower": "ufu"}], "label": "ORG"}
+{"pattern": [{"lower": "ufv"}], "label": "ORG"}
+{"pattern": [{"lower": "ufvjm"}], "label": "ORG"}
+{"pattern": [{"lower": "unb"}], "label": "ORG"}
+{"pattern": [{"lower": "unb"}], "label": "ORG"}
+{"pattern": [{"lower": "unicap"}], "label": "ORG"}
+{"pattern": [{"lower": "unifal-mg"}], "label": "ORG"}
+{"pattern": [{"lower": "unifap"}], "label": "ORG"}
+{"pattern": [{"lower": "unifei"}], "label": "ORG"}
+{"pattern": [{"lower": "unifesp"}], "label": "ORG"}
+{"pattern": [{"lower": "unifesspa"}], "label": "ORG"}
+{"pattern": [{"lower": "unila"}], "label": "ORG"}
+{"pattern": [{"lower": "unilab"}], "label": "ORG"}
+{"pattern": [{"lower": "unilab/ce"}], "label": "ORG"}
+{"pattern": [{"lower": "unip"}], "label": "ORG"}
+{"pattern": [{"lower": "unipampa"}], "label": "ORG"}
+{"pattern": [{"lower": "unir"}], "label": "ORG"}
+{"pattern": [{"lower": "unirio"}], "label": "ORG"}
+{"pattern": [{"lower": "unisantos"}], "label": "ORG"}
+{"pattern": [{"lower": "univasf"}], "label": "ORG"}
+{"pattern": [{"lower": "universidad"}, {"lower": "tr\u00e9s"}, {"lower": "de"}, {"lower": "febrero"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "americana"}, {"lower": "de"}, {"lower": "washington"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "c\u00e2ndido"}, {"lower": "mendes"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "cat\u00f3lica"}, {"lower": "de"}, {"lower": "pernambuco"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "cato\u0301lica"}, {"lower": "de"}, {"lower": "santos"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "cat\u00f3lica"}, {"lower": "portuguesa"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "coimbra"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "cornell"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "da"}, {"lower": "calif\u00f3rnia"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "da"}, {"lower": "col\u00fambia"}, {"lower": "brit\u00e2nica"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "da"}, {"lower": "integra\u00e7\u00e3o"}, {"lower": "internacional"}, {"lower": "da"}, {"lower": "lusofonia"}, {"lower": "afro-brasileira"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "da"}, {"lower": "regi\u00e3o"}, {"lower": "de"}, {"lower": "joinville"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "bath"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "bayreuth"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "boston"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "bras\u00edlia"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "buenos"}, {"lower": "aires"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "cambridge"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "columbia"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "drake"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "glasgow"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "indiana"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "lausanne"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "lisboa"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "michigan"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "minnesota"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "oxford"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "paris"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "passo"}, {"lower": "fundo"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "patos"}, {"lower": "de"}, {"lower": "minas"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "pernambuco"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "salvador"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "de"}, {"lower": "stanford"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "do"}, {"lower": "chile"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "do"}, {"lower": "oeste"}, {"lower": "de"}, {"lower": "sydney"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "do"}, {"lower": "porto"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "duke"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "est\u00e1cio"}, {"lower": "de"}, {"lower": "s\u00e1"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "estadual"}, {"lower": "de"}, {"lower": "londrina"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "estadual"}, {"lower": "de"}, {"lower": "maring\u00e1"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "estadual"}, {"lower": "do"}, {"lower": "rio"}, {"lower": "de"}, {"lower": "janeiro"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "europeia"}, {"lower": "do"}, {"lower": "atl\u00e2ntico"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "da"}, {"lower": "bahia"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "da"}, {"lower": "fronteira"}, {"lower": "sul"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "da"}, {"lower": "grande"}, {"lower": "dourados"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "da"}, {"lower": "integra\u00e7\u00e3o"}, {"lower": "latino-americana"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "da"}, {"lower": "lusofonia"}, {"lower": "afro-brasileira"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "da"}, {"lower": "para\u00edba"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "alagoas"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "alfenas"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "campina"}, {"lower": "grande"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "catal\u00e3o"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "ci\u00eancias"}, {"lower": "da"}, {"lower": "sa\u00fade"}, {"lower": "de"}, {"lower": "porto"}, {"lower": "alegre"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "goi\u00e1s"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "itajub\u00e1"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "jata\u00ed"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "juiz"}, {"lower": "de"}, {"lower": "fora"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "lavras"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "mato"}, {"lower": "grosso"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "mato"}, {"lower": "grosso"}, {"lower": "do"}, {"lower": "sul"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "minas"}, {"lower": "gerais"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "ouro"}, {"lower": "preto"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "pelotas"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "pernambuco"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "rond\u00f4nia"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "rondon\u00f3polis"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "roraima"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "santa"}, {"lower": "catarina"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "santa"}, {"lower": "maria"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "s\u00e3o"}, {"lower": "carlos"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "s\u00e3o"}, {"lower": "jo\u00e3o"}, {"lower": "del-rei"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "s\u00e3o"}, {"lower": "paulo"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "sergipe"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "uberl\u00e2ndia"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "de"}, {"lower": "vi\u00e7osa"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "abc"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "acre"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "agreste"}, {"lower": "de"}, {"lower": "pernambuco"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "amap\u00e1"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "amazonas"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "cariri"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "cear\u00e1"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "delta"}, {"lower": "do"}, {"lower": "parna\u00edba"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "esp\u00edrito"}, {"lower": "santo"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "estado"}, {"lower": "do"}, {"lower": "rio"}, {"lower": "de"}, {"lower": "janeiro"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "maranh\u00e3o"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "norte"}, {"lower": "do"}, {"lower": "tocantins"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "oeste"}, {"lower": "da"}, {"lower": "bahia"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "oeste"}, {"lower": "do"}, {"lower": "par\u00e1"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "pampa"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "par\u00e1"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "paran\u00e1"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "piau\u00ed"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "rec\u00f4ncavo"}, {"lower": "baiano"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "rec\u00f4ncavo"}, {"lower": "da"}, {"lower": "bahia"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "rio"}, {"lower": "de"}, {"lower": "janeiro"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "rio"}, {"lower": "grande"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "rio"}, {"lower": "grande"}, {"lower": "do"}, {"lower": "norte"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "rio"}, {"lower": "grande"}, {"lower": "do"}, {"lower": "sul"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "sul"}, {"lower": "da"}, {"lower": "bahia"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "sul"}, {"lower": "e"}, {"lower": "sudeste"}, {"lower": "do"}, {"lower": "par\u00e1"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "tocantins"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "tri\u00e2ngulo"}, {"lower": "mineiro"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "vale"}, {"lower": "do"}, {"lower": "s\u00e3o"}, {"lower": "francisco"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "dos"}, {"lower": "vales"}, {"lower": "do"}, {"lower": "jequitinhonha"}, {"lower": "e"}, {"lower": "mucuri"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "fluminense"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "rural"}, {"lower": "da"}, {"lower": "amaz\u00f4nia"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "rural"}, {"lower": "de"}, {"lower": "pernambuco"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "rural"}, {"lower": "do"}, {"lower": "rio"}, {"lower": "de"}, {"lower": "janeiro"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "rural"}, {"lower": "do"}, {"lower": "rio"}, {"lower": "de"}, {"lower": "janeiro"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "federal"}, {"lower": "rural"}, {"lower": "do"}, {"lower": "semi-\u00e1rido"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "harvard"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "massey"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "nova"}, {"lower": "lisboa"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "paulista"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "polit\u00e9cnica"}, {"lower": "de"}, {"lower": "pernambuco"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "presbiteriana"}, {"lower": "mackenzie"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "s\u00e3o"}, {"lower": "judas"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "tecnol\u00f3gica"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "paran\u00e1"}], "label": "ORG"}
+{"pattern": [{"lower": "universidade"}, {"lower": "zumbi"}, {"lower": "dos"}, {"lower": "palmares"}], "label": "ORG"}
+{"pattern": [{"lower": "univille"}], "label": "ORG"}
+{"pattern": [{"lower": "upe"}], "label": "ORG"}
+{"pattern": [{"lower": "upf"}], "label": "ORG"}
+{"pattern": [{"lower": "utfpr"}], "label": "ORG"}
+{"pattern": [{"lower": "fbi"}], "label": "ORG"}
+{"pattern": [{"lower": "pol\u00edcia"}, {"lower": "civil"}], "label": "ORG"}
+{"pattern": [{"lower": "pol\u00edcia"}, {"lower": "militar"}], "label": "ORG"}
+{"pattern": [{"lower": "cia"}], "label": "ORG"}
 {"pattern": [{"lower": "s\u00e3o"}, {"lower": "paulo"}], "label": "CITY"}
 {"pattern": [{"lower": "rio"}, {"lower": "de"}, {"lower": "janeiro"}], "label": "CITY"}
 {"pattern": [{"lower": "bras\u00edlia"}], "label": "CITY"}
@@ -953,39 +953,38 @@
 {"pattern": [{"lower": "constan\u0163a"}], "label": "CITY"}
 {"pattern": [{"lower": "mannheim"}], "label": "CITY"}
 {"pattern": [{"lower": "utrecht"}], "label": "CITY"}
-{"pattern": [{"lower": "ibge"}], "label": "PUBLIC"}
-{"pattern": [{"lower": "instituto"}, {"lower": "brasileiro"}, {"lower": "de"}, {"lower": "geografia"}, {"lower": "e"}, {"lower": "estat\u00edstica"}], "label": "PUBLIC"}
-{"pattern": [{"lower": "mpf"}], "label": "PUBLIC"}
-{"pattern": [{"lower": "minist\u00e9rio"}, {"lower": "p\u00fablico"}, {"lower": "federal"}], "label": "PUBLIC"}
-{"pattern": [{"lower": "stf"}], "label": "PUBLIC"}
-{"pattern": [{"lower": "supremo"}, {"lower": "tribunal"}, {"lower": "federal"}], "label": "PUBLIC"}
-{"pattern": [{"lower": "supremo"}], "label": "PUBLIC"}
-{"pattern": [{"lower": "procuradoria-geral"}, {"lower": "da"}, {"lower": "rep\u00fablica"}], "label": "PUBLIC"}
-{"pattern": [{"lower": "pgr"}], "label": "PUBLIC"}
-{"pattern": [{"lower": "instituto"}, {"lower": "de"}, {"lower": "pesquisa"}, {"lower": "econ\u00f4mica"}, {"lower": "aplicada"}], "label": "PUBLIC"}
-{"pattern": [{"lower": "minist\u00e9rio"}, {"lower": "da"}, {"lower": "sa\u00fade"}], "label": "PUBLIC"}
-{"pattern": [{"lower": "minist\u00e9rio"}, {"lower": "p\u00fablico"}, {"lower": "de"}, {"lower": "s\u00e3o"}, {"lower": "paulo"}], "label": "PUBLIC"}
-{"pattern": [{"lower": "minist\u00e9rio"}, {"lower": "p\u00fablico"}], "label": "PUBLIC"}
-{"pattern": [{"lower": "minist\u00e9rio"}, {"lower": "da"}, {"lower": "justi\u00e7a"}], "label": "PUBLIC"}
-{"pattern": [{"lower": "minist\u00e9rio"}, {"lower": "p\u00fablico"}, {"lower": "estadual"}], "label": "PUBLIC"}
-{"pattern": [{"lower": "minist\u00e9rio"}, {"lower": "das"}, {"lower": "rela\u00e7\u00f5es"}, {"lower": "exteriores"}], "label": "PUBLIC"}
-{"pattern": [{"lower": "minist\u00e9rio"}, {"lower": "da"}, {"lower": "mulher"}, {"lower": "da"}, {"lower": "fam\u00edlia"}, {"lower": "e"}, {"lower": "dos"}, {"lower": "direitos"}, {"lower": "humanos"}], "label": "PUBLIC"}
-{"pattern": [{"lower": "mp-sc"}], "label": "PUBLIC"}
-{"pattern": [{"lower": "minist\u00e9rio"}, {"lower": "da"}, {"lower": "agricultura,"}, {"lower": "pecu\u00e1ria"}, {"lower": "e"}, {"lower": "abastecimento"}], "label": "PUBLIC"}
-{"pattern": [{"lower": "minist\u00e9rio"}, {"lower": "p\u00fablico"}, {"lower": "do"}, {"lower": "rio"}, {"lower": "de"}, {"lower": "janeiro"}], "label": "PUBLIC"}
-{"pattern": [{"lower": "minist\u00e9rio"}, {"lower": "da"}, {"lower": "economia"}], "label": "PUBLIC"}
-{"pattern": [{"lower": "minist\u00e9rio"}, {"lower": "p\u00fablico"}, {"lower": "militar"}], "label": "PUBLIC"}
-{"pattern": [{"lower": "minist\u00e9rio"}, {"lower": "p\u00fablico"}, {"lower": "do"}, {"lower": "rio"}, {"lower": "grande"}, {"lower": "do"}, {"lower": "sul"}], "label": "PUBLIC"}
-{"pattern": [{"lower": "minist\u00e9rio"}, {"lower": "p\u00fablico"}, {"lower": "do"}, {"lower": "trabalho"}], "label": "PUBLIC"}
-{"pattern": [{"lower": "minist\u00e9rio"}, {"lower": "da"}, {"lower": "educa\u00e7\u00e3o"}], "label": "PUBLIC"}
-{"pattern": [{"lower": "instituto"}, {"lower": "butantan"}], "label": "PUBLIC"}
-{"pattern": [{"lower": "justi\u00e7a"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "distrito"}, {"lower": "federal"}], "label": "PUBLIC"}
+{"pattern": [{"lower": "ibge"}], "label": "ORG"}
+{"pattern": [{"lower": "instituto"}, {"lower": "brasileiro"}, {"lower": "de"}, {"lower": "geografia"}, {"lower": "e"}, {"lower": "estat\u00edstica"}], "label": "ORG"}
+{"pattern": [{"lower": "mpf"}], "label": "ORG"}
+{"pattern": [{"lower": "minist\u00e9rio"}, {"lower": "p\u00fablico"}, {"lower": "federal"}], "label": "ORG"}
+{"pattern": [{"lower": "stf"}], "label": "ORG"}
+{"pattern": [{"lower": "supremo"}, {"lower": "tribunal"}, {"lower": "federal"}], "label": "ORG"}
+{"pattern": [{"lower": "supremo"}], "label": "ORG"}
+{"pattern": [{"lower": "procuradoria-geral"}, {"lower": "da"}, {"lower": "rep\u00fablica"}], "label": "ORG"}
+{"pattern": [{"lower": "pgr"}], "label": "ORG"}
+{"pattern": [{"lower": "instituto"}, {"lower": "de"}, {"lower": "pesquisa"}, {"lower": "econ\u00f4mica"}, {"lower": "aplicada"}], "label": "ORG"}
+{"pattern": [{"lower": "minist\u00e9rio"}, {"lower": "da"}, {"lower": "sa\u00fade"}], "label": "ORG"}
+{"pattern": [{"lower": "minist\u00e9rio"}, {"lower": "p\u00fablico"}, {"lower": "de"}, {"lower": "s\u00e3o"}, {"lower": "paulo"}], "label": "ORG"}
+{"pattern": [{"lower": "minist\u00e9rio"}, {"lower": "p\u00fablico"}], "label": "ORG"}
+{"pattern": [{"lower": "minist\u00e9rio"}, {"lower": "da"}, {"lower": "justi\u00e7a"}], "label": "ORG"}
+{"pattern": [{"lower": "minist\u00e9rio"}, {"lower": "p\u00fablico"}, {"lower": "estadual"}], "label": "ORG"}
+{"pattern": [{"lower": "minist\u00e9rio"}, {"lower": "das"}, {"lower": "rela\u00e7\u00f5es"}, {"lower": "exteriores"}], "label": "ORG"}
+{"pattern": [{"lower": "minist\u00e9rio"}, {"lower": "da"}, {"lower": "mulher"}, {"lower": "da"}, {"lower": "fam\u00edlia"}, {"lower": "e"}, {"lower": "dos"}, {"lower": "direitos"}, {"lower": "humanos"}], "label": "ORG"}
+{"pattern": [{"lower": "mp-sc"}], "label": "ORG"}
+{"pattern": [{"lower": "minist\u00e9rio"}, {"lower": "da"}, {"lower": "agricultura,"}, {"lower": "pecu\u00e1ria"}, {"lower": "e"}, {"lower": "abastecimento"}], "label": "ORG"}
+{"pattern": [{"lower": "minist\u00e9rio"}, {"lower": "p\u00fablico"}, {"lower": "do"}, {"lower": "rio"}, {"lower": "de"}, {"lower": "janeiro"}], "label": "ORG"}
+{"pattern": [{"lower": "minist\u00e9rio"}, {"lower": "da"}, {"lower": "economia"}], "label": "ORG"}
+{"pattern": [{"lower": "minist\u00e9rio"}, {"lower": "p\u00fablico"}, {"lower": "militar"}], "label": "ORG"}
+{"pattern": [{"lower": "minist\u00e9rio"}, {"lower": "p\u00fablico"}, {"lower": "do"}, {"lower": "rio"}, {"lower": "grande"}, {"lower": "do"}, {"lower": "sul"}], "label": "ORG"}
+{"pattern": [{"lower": "minist\u00e9rio"}, {"lower": "p\u00fablico"}, {"lower": "do"}, {"lower": "trabalho"}], "label": "ORG"}
+{"pattern": [{"lower": "minist\u00e9rio"}, {"lower": "da"}, {"lower": "educa\u00e7\u00e3o"}], "label": "ORG"}
+{"pattern": [{"lower": "instituto"}, {"lower": "butantan"}], "label": "ORG"}
+{"pattern": [{"lower": "justi\u00e7a"}, {"lower": "federal"}, {"lower": "do"}, {"lower": "distrito"}, {"lower": "federal"}], "label": "ORG"}
 {"pattern": [{"lower": "martin"}, {"lower": "luther"}, {"lower": "king"}], "label": "PER"}
 {"pattern": [{"lower": "martin"}, {"lower": "luther"}, {"lower": "king"}, {"lower": "jr"}], "label": "PER"}
 {"pattern": [{"lower": "malcolm"}, {"lower": "x"}], "label": "PER"}
 {"pattern": [{"lower": "george"}, {"lower": "floyd"}], "label": "PER"}
 {"pattern": [{"lower": "djamila"}, {"lower": "ribeiro"}], "label": "PER"}
-{"pattern": [{"lower": "djamila"}], "label": "PER"}
 {"pattern": [{"lower": "nelson"}, {"lower": "mandela"}], "label": "PER"}
 {"pattern": [{"lower": "marielle"}, {"lower": "franco"}], "label": "PER"}
 {"pattern": [{"lower": "rosa"}, {"lower": "parker"}], "label": "PER"}
@@ -1015,13 +1014,13 @@
 {"pattern": [{"lower": "revista"}, {"lower": "dados"}], "label": "MEDIA"}
 {"pattern": [{"lower": "tv"}, {"lower": "globo"}], "label": "MEDIA"}
 {"pattern": [{"lower": "bbc"}, {"lower": "\u00e1frica"}], "label": "MEDIA"}
-{"pattern": [{"lower": "naacp"}], "label": "MOVEMENT"}
-{"pattern": [{"lower": "panteras"}, {"lower": "negras"}], "label": "MOVEMENT"}
-{"pattern": [{"lower": "black"}, {"lower": "lives"}, {"lower": "matter"}], "label": "MOVEMENT"}
-{"pattern": [{"lower": "vidas"}, {"lower": "negras"}, {"lower": "importam"}], "label": "MOVEMENT"}
-{"pattern": [{"lower": "black"}, {"lower": "power"}], "label": "MOVEMENT"}
-{"pattern": [{"lower": "movimento"}, {"lower": "negro"}, {"lower": "unificado"}], "label": "MOVEMENT"}
-{"pattern": [{"lower": "mnu"}], "label": "MOVEMENT"}
+{"pattern": [{"lower": "naacp"}], "label": "ORG"}
+{"pattern": [{"lower": "panteras"}, {"lower": "negras"}], "label": "ORG"}
+{"pattern": [{"lower": "black"}, {"lower": "lives"}, {"lower": "matter"}], "label": "ORG"}
+{"pattern": [{"lower": "vidas"}, {"lower": "negras"}, {"lower": "importam"}], "label": "ORG"}
+{"pattern": [{"lower": "black"}, {"lower": "power"}], "label": "ORG"}
+{"pattern": [{"lower": "movimento"}, {"lower": "negro"}, {"lower": "unificado"}], "label": "ORG"}
+{"pattern": [{"lower": "mnu"}], "label": "ORG"}
 {"pattern": [{"lower": "sp"}], "label": "STATE"}
 {"pattern": [{"lower": "s\u00e3o"}, {"lower": "paulo"}], "label": "STATE"}
 {"pattern": [{"lower": "rj"}], "label": "STATE"}
