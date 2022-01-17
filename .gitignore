@@ -1,3 +1,10 @@
 __pycache__/
 argparse
 models/
+packages/
+*.tsv
+*.txt
+*.log
+_old/
+*.jsonl
+*.spacy
